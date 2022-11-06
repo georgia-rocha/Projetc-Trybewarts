@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: rgb(50, 167, 145);
+  height: 55px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.titulo {
+  color: black;
+  margin: 15px;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.trybewarts-header-logo {
+  width: 50px;
+  margin-left: 10px;
+}
+
+#trybewarts-header-title {
+  text-align: center;
+  align-self: center;
+  color: aliceblue;
+  font-size: 2rem;
+}
+
+.trybewarts-login {
+  display: flex;
+  margin-right: 10px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#evaluation-form {
+  width: 675px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-bottom: 50px;
+}
+
+.tela {
+  display: flex;
+  justify-content: space-around;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.label-house {
+  height: 3rem;
+  width: 60px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.input-select {
+  width: 80%;
+}
+
+.div-house {
+  display: flex;
+  width: 45%;
+  margin-left: 0.6rem;
+  flex-wrap: wrap;
+}
+
+label.textarea {
+  border: none;
+}
+
+label.textarea:active {
+  border: none;
+  box-shadow: none;
+}
+
+#form-data {
+  display: none;
+}
+
+.div {
+  width: 45%;
+  margin: 5px;
+}
+
+.section-name-lastname {
+  display: flex;
+}
+
+.section-email {
+  width: 40%;
+}
+
+.casa {
+  display: flex;
+}
+
+.primeira {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.family {
+  width: 30%;
+}
+
+.family input {
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.conteudos {
+  width: 60%;
+}
+
+.check {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20%;
+}
+
+.conteudos-ordenados {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.conteudos-ordenados input {
+  margin-right: 10px;
+}
+
+.divide {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.avaliacao {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 5px;
+  width: 60%;
+}
+
+.avaliacao #label-rate {
+  margin-left: 9px;
+}
+
+.text {
+  display: flex;
+}
+
+#textarea {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 20px;
+}
+
+#counter {
+  display: flex;
+  margin-left: 95%;
+  right: 100px;
+}
+
+.btn {
+  text-align: center;
+  align-self: center;
+}
+
+footer h3 {
+  height: 35px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: darkslategray;
+}
