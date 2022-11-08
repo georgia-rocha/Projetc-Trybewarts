@@ -1,6 +1,6 @@
-### Objetivo
+## Objetivo
 O Projeto teve o intuito de desenvolvermos nosso aprendiado em softskills e hardskills, sendo primeiro projeto desenvolvido em dupla e com o objetivo de elaborar um formulário com tema inspirado em 'Harry Potter', de J. K. Rowling, onde pessas estudantes podem enviar seus feedbacks.
-### Requisitos Obrigatórios
+## Requisitos Obrigatórios
 - [x] 1. Crie uma barra verde na parte superior da página.
 - [x] 2. Adicione o logotipo da Trybewarts.
 - [x] 3. Acrescente um formulário de login no `header`.
