@@ -1,3 +1,6 @@
+![Tela principal do Projeto](/tela1.png)
+![Tela secundária do Projeto](/tela2.png)
+
 ## Objetivo
 O Projeto teve o intuito de desenvolvermos nosso aprendiado em softskills e hardskills, sendo primeiro projeto desenvolvido em dupla e com o objetivo de elaborar um formulário com tema inspirado em 'Harry Potter', de J. K. Rowling, onde pessas estudantes podem enviar seus feedbacks.
 ## Requisitos Obrigatórios
